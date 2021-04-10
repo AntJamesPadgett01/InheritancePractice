@@ -1,0 +1,15 @@
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\InheritancePractice.exe
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\InheritancePractice.deps.json
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\InheritancePractice.runtimeconfig.json
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\InheritancePractice.runtimeconfig.dev.json
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\InheritancePractice.dll
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\ref\InheritancePractice.dll
+C:\Users\antho\repos\InheritancePractice\bin\Debug\net5.0\InheritancePractice.pdb
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.AssemblyInfo.cs
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.dll
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\ref\InheritancePractice.dll
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.pdb
+C:\Users\antho\repos\InheritancePractice\obj\Debug\net5.0\InheritancePractice.genruntimeconfig.cache
